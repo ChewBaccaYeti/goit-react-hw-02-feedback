@@ -36,15 +36,13 @@ export const Button = styled.button`
   ::before {
     content: '';
     background: linear-gradient(
-      45deg,
-      yellow,
-      blue,
-      yellow,
-      blue,
-      yellow,
-      blue,
-      yellow,
-      blue
+      75deg,
+      aqua,
+      purple,
+      orange,
+      aqua,
+      purple,
+      orange
     );
     position: absolute;
     top: -2px;
